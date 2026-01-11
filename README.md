@@ -1,10 +1,5 @@
 # 🗔 WindowsApplicationRebuild
 
-**Deskripsi singkat mengenai tujuan utama aplikasi Anda.**
-
-[![Windows](img.shields.io)](www.microsoft.com)
-[![License](img.shields.io)](opensource.org)
-
 Aplikasi ini bertujuan untuk mempermudah user untuk berinteraksi dengan sistem operasi yang kadang membingungkan. 
 Ini dirancang untuk pengguna pribadi ataupun umum.
 
@@ -23,3 +18,4 @@ Kami menyambut kontribusi! Silakan lihat `CONTRIBUTING.md` untuk detail lebih la
 ### 📄 Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail selengkapnya.
+
