@@ -14,10 +14,10 @@ Windows 11 memperkenalkan desain menu klik kanan yang baru, namun bagi banyak pe
   </tr>
   <tr>
     <td>
-      <img src="assets/before.png" width="400" alt="Menu Klik Kanan Windows 11">
+      <img src="before.png" width="400" alt="Menu Klik Kanan Windows 11">
     </td>
     <td>
-      <img src="assets/after.png" width="400" alt="Menu Klik Kanan Klasik">
+      <img src="after.png" width="400" alt="Menu Klik Kanan Klasik">
     </td>
   </tr>
 </table>
@@ -53,3 +53,4 @@ Modifikasi ini adalah metode standar yang diakui oleh komunitas teknis untuk men
 
 ## ⚖️ Lisensi
 Dibuat untuk penggunaan pribadi dan umum. Silakan digunakan dan disebarkan untuk membantu produktivitas sesama pengguna Windows 11.
+
