@@ -6,7 +6,10 @@ Ini dirancang untuk pengguna pribadi ataupun umum.
 ---
 
 ### 🚀 Mulai Menggunakan
-[Berikan instruksi singkat tentang cara menginstal atau menjalankan aplikasi]. Anda dapat merujuk ke bagian "Releases" untuk file yang dapat dieksekusi.
+Aplikasi ini portable
+bisa langsung dieksekusi dan aman bagi pengguna
+hanya saja harus menggunakan run as administrator dan juga kalau misalkan antivirus memindainya sebagai virus anda bisa mematikannya dahulu, tenang ini aman tidak ada unsur kejahatan didalam kode yang saya buat
+Anda dapat merujuk ke bagian "Releases" untuk file yang dapat dieksekusi.
 
 ---
 
@@ -18,4 +21,5 @@ Kami menyambut kontribusi! Silakan lihat `CONTRIBUTING.md` untuk detail lebih la
 ### 📄 Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail selengkapnya.
+
 
